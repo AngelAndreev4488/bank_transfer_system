@@ -1,0 +1,6 @@
+# Built-in modules (no install needed)
+# sqlite3
+SQLAlchemy
+pandas
+faker
+openpyxl
